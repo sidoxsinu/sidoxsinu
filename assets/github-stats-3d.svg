@@ -41,7 +41,7 @@
  <g transform="translate(35, 26)">
  <circle cx="6" cy="0" r="4.5" fill="#ff5533" filter="url(#glowMetric)" />
  <text x="18" y="4" fill="#ffffff" font-size="14" font-weight="bold" class="sans">GITHUB DEV METRICS</text>
- <text x="18" y="19" fill="#8b949e" font-size="10" class="mono">sidoxsinu &#8226; Live Repository Analytics</text>
+ <text x="18" y="19" fill="#8b949e" font-size="10" class="mono">sidoxsinu &#8226; Repository Analytics</text>
 
  <!-- Metric 1: Public Repos -->
  <g transform="translate(0, 36)">

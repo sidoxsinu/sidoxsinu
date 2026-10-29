@@ -47,7 +47,7 @@
 <h2 align="center">3D Project Radar &amp; Architecture Matrix</h2>
 
 <p align="center">
- <i>Real-time tracking of featured deployments, autonomous agents, campus infrastructure &amp; full-stack systems.</i>
+ <i>Curated tracking of featured deployments, autonomous agents, campus infrastructure &amp; full-stack systems.</i>
 </p>
 
 <!-- 3D Visual Radar Card -->
@@ -83,7 +83,7 @@
  <td width="50%" valign="top">
  <h3><a href="https://github.com/sidoxsinu/BusCue">BusCue Transit Engine</a></h3>
  <p><b>Domain:</b> Real-time Telemetry &bull; Smart Mobility</p>
- <p>Real-time campus &amp; regional bus tracking system designed to eliminate commuter uncertainty through live location updates and route tracking.</p>
+ <p>Campus &amp; regional bus tracking system designed to eliminate commuter uncertainty through live location updates and route tracking.</p>
  <p>
  <img src="https://img.shields.io/badge/Telemetry-0d1117?style=flat-square&logo=googlemaps&logoColor=ff7b5a" />
  <img src="https://img.shields.io/badge/Status-Beta_Testing-ff7b5a?style=flat-square&labelColor=0d1117" />
@@ -96,7 +96,7 @@
  <p>Interactive self-service touch kiosk built for Christ College of Engineering to explore campus zones, buildings, and departmental wayfinding.</p>
  <p>
  <img src="https://img.shields.io/badge/Kiosk_UI-0d1117?style=flat-square&logo=electron&logoColor=58a6ff" />
- <img src="https://img.shields.io/badge/Status-Campus_Live-00ff88?style=flat-square&labelColor=0d1117" />
+ <img src="https://img.shields.io/badge/Status-Deployed-00ff88?style=flat-square&labelColor=0d1117" />
  <a href="https://github.com/sidoxsinu/Kiosk-1"><b>[Code &rarr;]</b></a>
  </p>
  </td>
@@ -133,13 +133,13 @@
 | Project | Domain | Core Tech | Status | Direct Access |
 | :--- | :--- | :--- | :---: | :--- |
 | **[Next-Gen AI Assistant](https://github.com/sidoxsinu/next-gen-ai-assistant-system)** | Agentic AI | TypeScript, Multi-Agent | ` Active Dev` | [Repository &rarr;](https://github.com/sidoxsinu/next-gen-ai-assistant-system) |
-| **[RuralReach](https://github.com/sidoxsinu/RuralReach)** | Gamified Education | React, Node, Express, MongoDB | ` Live Prod` | [Repository &rarr;](https://github.com/sidoxsinu/RuralReach) |
-| **[BusCue](https://github.com/sidoxsinu/BusCue)** | Transit Telemetry | Real-Time Geolocation, Web | ` Active Beta` | [Repository &rarr;](https://github.com/sidoxsinu/BusCue) |
+| **[RuralReach](https://github.com/sidoxsinu/RuralReach)** | Gamified Education | React, Node, Express, MongoDB | ` Production` | [Repository &rarr;](https://github.com/sidoxsinu/RuralReach) |
+| **[BusCue](https://github.com/sidoxsinu/BusCue)** | Transit Telemetry | Geolocation, Web | ` Active Beta` | [Repository &rarr;](https://github.com/sidoxsinu/BusCue) |
 | **[Campus Compass Kiosk](https://github.com/sidoxsinu/Kiosk-1)** | Campus Navigation IoT | Interactive Kiosk UI | ` Deployed` | [Repository &rarr;](https://github.com/sidoxsinu/Kiosk-1) |
 | **[CodeBurry](https://github.com/sidoxsinu/CodeBurry)** | Interactive CS Study | React, TypeScript, Tailwind | ` In Progress` | [Repository &rarr;](https://github.com/sidoxsinu/CodeBurry) |
-| **[MultiLinks](https://github.com/sidoxsinu/MultiLinks)** | Bio &amp; Profile Hub | TypeScript, Modern CSS | ` Live Prod` | [Repository &rarr;](https://github.com/sidoxsinu/MultiLinks) |
-| **[IEEE CCE LYNK](https://github.com/sidoxsinu/IEEE_CCE_LYNK)** | Student Community Portal | TypeScript, Component UI | ` Live Prod` | [Repository &rarr;](https://github.com/sidoxsinu/IEEE_CCE_LYNK) |
-| **[Pylon](https://github.com/sidoxsinu/Pylon)** | Scholarship Discovery | Vanilla HTML5, CSS3, JS | ` Live Prod` | [Repository &rarr;](https://github.com/sidoxsinu/Pylon) |
+| **[MultiLinks](https://github.com/sidoxsinu/MultiLinks)** | Bio &amp; Profile Hub | TypeScript, Modern CSS | ` Production` | [Repository &rarr;](https://github.com/sidoxsinu/MultiLinks) |
+| **[IEEE CCE LYNK](https://github.com/sidoxsinu/IEEE_CCE_LYNK)** | Student Community Portal | TypeScript, Component UI | ` Production` | [Repository &rarr;](https://github.com/sidoxsinu/IEEE_CCE_LYNK) |
+| **[Pylon](https://github.com/sidoxsinu/Pylon)** | Scholarship Discovery | Vanilla HTML5, CSS3, JS | ` Production` | [Repository &rarr;](https://github.com/sidoxsinu/Pylon) |
 
 <br/>
 
@@ -164,7 +164,7 @@
  > - `HackQuest25` &bull; 24-hour hackathon project (TypeScript)
  > - `IEEE_CCE_LYNK` &bull; IEEE CCE community engagement platform (TypeScript)
  > - `Kiosk-1` &bull; Interactive campus navigation kiosk system for CCE
- > - `LayoverHackathon` &bull; Real-time flight &amp; transit layover assistant (TypeScript)
+ > - `LayoverHackathon` &bull; Flight &amp; transit layover assistant (TypeScript)
  > - `movie-watchlist-deploy` &bull; Dynamic cinema tracking &amp; review watchlist (JavaScript)
  > - `muhammedsinanm` &bull; Personal developer portfolio codebase (TypeScript)
  > - `MultiLinks` &bull; Ultra-fast bio link &amp; digital identity aggregator (TypeScript)
@@ -179,7 +179,7 @@
  > - `university-hub` &bull; Unified academic resource repository for college students (JavaScript)
  > - `universityhub` &bull; Campus student portal &amp; notification feed (JavaScript)
  > - `VDash-main-2` &bull; Interactive analytical dashboard UI (HTML)
- > - `Workshop-Tracker` &bull; Real-time tech workshop check-in tracker (JavaScript)
+ > - `Workshop-Tracker` &bull; Tech workshop check-in tracker (JavaScript)
 
 </details>
 
@@ -224,7 +224,7 @@
  <img src="./assets/github-stats-3d.svg" width="100%" alt="3D GitHub Stats & Language Power Index" />
 </p>
 
-<!-- LIVE STREAK STATS -->
+<!-- STREAK STATS -->
 <p align="center">
  <a href="https://github.com/sidoxsinu">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidoxsinu&theme=radical&background=080C14&border=30363D&stroke=30363D&ring=FF5533&fire=FF5533&currStreakLabel=FF5533&currStreakNum=FFAA33&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E&border_radius=10" alt="GitHub Streak Stats" />
