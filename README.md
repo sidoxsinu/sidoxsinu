@@ -44,7 +44,7 @@
 <!-- SECTION: 3D PROJECT MATRIX & INTERACTIVE TRACKER -->
 <!-- ================================================================ -->
 
-<h2 align="center"> 3D Project Radar &amp; Architecture Matrix</h2>
+<h2 align="center">3D Project Radar &amp; Architecture Matrix</h2>
 
 <p align="center">
  <i>Real-time tracking of featured deployments, autonomous agents, campus infrastructure &amp; full-stack systems.</i>
@@ -190,7 +190,7 @@
 <!-- SECTION: 3D ISOMETRIC ACTIVITY SKYLINE & SNAKE ARCADE -->
 <!-- ================================================================ -->
 
-<h2 align="center"> 3D Isometric Activity Skyline</h2>
+<h2 align="center">3D Isometric Activity Skyline</h2>
 
 <p align="center">
  <i>Isometric 3D projection of commit velocity and contribution density across time.</i>
@@ -204,7 +204,7 @@
 </p>
 
 <!-- SNAKE ARCADE -->
-<h3 align="center"> Contribution Snake Arcade</h3>
+<h3 align="center">Contribution Snake Arcade</h3>
 
 <p align="center">
  <img src="./assets/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Grid Snake Arcade" />
@@ -217,7 +217,7 @@
 <!-- SECTION: TELEMETRY & GITHUB PERFORMANCE METRICS -->
 <!-- ================================================================ -->
 
-<h2 align="center"> Developer Telemetry &amp; Performance HUD</h2>
+<h2 align="center">Developer Telemetry &amp; Performance HUD</h2>
 
 <!-- 3D METRICS + LANGUAGE INDEX (Zero Collisions, Perfectly Spaced) -->
 <p align="center">
@@ -238,7 +238,7 @@
 <!-- SECTION: 3D TECH STACK & ARSENAL -->
 <!-- ================================================================ -->
 
-<h2 align="center"> 3D Tech Stack &amp; Battle Arsenal</h2>
+<h2 align="center">3D Tech Stack &amp; Battle Arsenal</h2>
 
 <p align="center">
  <i>Technologies, languages, 3D engines, and cloud runtimes powering my projects.</i>
@@ -300,7 +300,7 @@
 <!-- SECTION: PLAYFUL LORE & EASTER EGGS -->
 <!-- ================================================================ -->
 
-<h2 align="center"> Developer Lore &amp; Playful Easter Eggs</h2>
+<h2 align="center">Developer Lore &amp; Playful Easter Eggs</h2>
 
 <details>
  <summary><b>Meet the Co-Pilot: Head of Debugging (Orange Kitten)</b></summary>
