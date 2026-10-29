@@ -8,15 +8,27 @@ Software Engineering Intern at Torcue Digital. Second-Year B.Tech Computer Scien
 [![Twitter](https://img.shields.io/badge/Twitter-@sidoxsinu-161b22?style=flat-square&labelColor=161b22)](https://twitter.com/sidoxsinu)
 [![Email](https://img.shields.io/badge/Email-muhammedsinan.m67@gmail.com-161b22?style=flat-square&labelColor=161b22)](mailto:muhammedsinan.m67@gmail.com)
 
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=E54D2E&background=00000000&center=false&vCenter=true&width=750&lines=Software+Engineering+Intern+at+Torcue+Digital;Second-Year+B.Tech+CSE+Student+at+Christ+College+of+Engineering;Design+Lead+at+IEEE+Kerala+State+Joint+Chapter;Co-CFO+at+IEDC+Christ+College+of+Engineering" alt="Typing Status" />
+</p>
+
+---
+
+## Telemetry Monitor
+
+<p align="left">
+  <img src="./assets/telemetry-monitor.svg" width="100%" alt="Telemetry Monitor" />
+</p>
+
 ---
 
 ## Technical Profile
 
-- Primary focus: Full-stack web engineering, agentic AI systems, and real-time transit telemetry.
+- Primary Focus: Full-stack web engineering, autonomous agent systems, and real-time transit telemetry.
 - Education: Bachelor of Technology in Computer Science and Engineering (2023 - 2027), Christ College of Engineering, Irinjalakuda.
-- Employment: Software Engineering Intern, Torcue Digital.
-- Campus roles: Design Lead, IEEE Kerala State Joint Chapter; Co-CFO, IEDC CCE.
-- Community service: National Service Scheme (NSS) Volunteer Leader with 240 certified hours.
+- Professional Experience: Software Engineering Intern at Torcue Digital.
+- Campus Leadership: Design Lead at IEEE Kerala State Joint Chapter; Co-CFO at Innovation and Entrepreneurship Development Centre (IEDC), CCE.
+- Community Service: National Service Scheme (NSS) Volunteer Leader with 240 certified hours.
 - Repositories: 30 public repositories on GitHub.
 
 ---
@@ -27,13 +39,13 @@ Software Engineering Intern at Torcue Digital. Second-Year B.Tech Computer Scien
 | :--- | :--- |
 | Languages | TypeScript, JavaScript, Python, Java, C++, HTML5, CSS3, SQL |
 | Frontend | React, Next.js, Tailwind CSS, Vite, Redux |
-| Backend & Runtime | Node.js, Express, MongoDB, Firebase, Linux, REST APIs |
-| Systems & Hardware | Arduino, Embedded C, Robotics Telemetry |
-| Developer Tools | Git, GitHub Actions, Visual Studio Code, Figma |
+| Backend and Runtime | Node.js, Express, MongoDB, Firebase, Linux, REST APIs |
+| Systems and Hardware | Arduino, Embedded C, Robotics Telemetry |
+| Developer Tooling | Git, GitHub Actions, Visual Studio Code, Figma |
 
 ---
 
-## Project Registry
+## Project Registry and Telemetry
 
 | Project | Domain | Stack | Status | Repository |
 | :--- | :--- | :--- | :--- | :--- |
@@ -56,13 +68,13 @@ Software Engineering Intern at Torcue Digital. Second-Year B.Tech Computer Scien
 
 ---
 
-## Project Summaries
+## Architectural Specifications
 
 ### RuralReach
 Full-stack web application designed for interactive community learning.
-- Backend: Node.js, Express, and MongoDB with JWT authentication and role-based access control.
-- Frontend: React with client-side state handling and leaderboard visualization.
-- Features: Task challenge uploads, drop tracking, virtual garden progression, and administrative review panel.
+- Backend Architecture: Node.js, Express, and MongoDB with JWT authentication and role-based access control.
+- Frontend Architecture: React with client-side state handling and leaderboard visualization.
+- Functional Scope: Task challenge uploads, drop tracking, virtual garden progression, and administrative review panel.
 
 ### next-gen-ai-assistant-system
 Multi-agent task coordination system built with TypeScript.
@@ -89,7 +101,9 @@ High-performance link aggregator and developer profile router built with TypeScr
 
 ## Complete Repository Directory
 
-The following is an indexed directory of all 30 public repositories under sidoxsinu:
+<details>
+  <summary><b>[+] Click to view indexed directory of all 30 public repositories</b></summary>
+  <br/>
 
 - Agentic-Ai: Autonomous agent task architectures in Python.
 - AI-Voice-Assistant: Voice query interface utilizing the Web Speech API.
@@ -122,25 +136,30 @@ The following is an indexed directory of all 30 public repositories under sidoxs
 - VDash-main-2: Data dashboard interface in HTML and JavaScript.
 - Workshop-Tracker: Event registration and attendee log tool in JavaScript.
 
+</details>
+
 ---
 
 ## Experience and Leadership
 
 ### Software Engineering Intern
-**Torcue Digital** (Present)
+Torcue Digital (Present)
 - Working on web platform development, API integrations, and software delivery pipelines.
 
 ### Design Lead
-**IEEE Kerala State Joint Chapter** (Present)
+IEEE Kerala State Joint Chapter (Present)
 - Leading visual systems and communication design across student branch chapters in Kerala.
 
 ### Co-CFO
-**Innovation and Entrepreneurship Development Centre (IEDC), CCE** (Present)
+Innovation and Entrepreneurship Development Centre (IEDC), CCE (Present)
 - Managing institutional innovation grants, project budgets, and entrepreneurship initiatives.
 
 ### Volunteer Leader
-**National Service Scheme (NSS)**
+National Service Scheme (NSS)
 - Completed 240 certified hours of community development, rural outreach, and social work.
+
+### Competitive Hackathons
+- Participated in 27 technical hackathons and engineering sprints across Kerala, focusing on rapid system prototyping and algorithmic problem solving.
 
 ---
 
