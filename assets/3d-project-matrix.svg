@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 240" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 220" width="100%" height="100%">
   <defs>
     <linearGradient id="projBg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#080c14" />
       <stop offset="100%" stop-color="#111824" />
     </linearGradient>
-    <linearGradient id="cardGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#1c2436" stop-opacity="0.95" />
-      <stop offset="100%" stop-color="#101522" stop-opacity="0.95" />
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#182236" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#0f1624" stop-opacity="0.95" />
     </linearGradient>
     <filter id="glowCard" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feGaussianBlur stdDeviation="3" result="blur" />
       <feMerge>
         <feMergeNode in="blur" />
         <feMergeNode in="SourceGraphic" />
@@ -17,80 +17,80 @@
     </filter>
   </defs>
   <style>
-    @keyframes floatCard1 { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-6px); } }
-    @keyframes floatCard2 { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(6px); } }
+    @keyframes floatCard1 { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-5px); } }
+    @keyframes floatCard2 { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(5px); } }
     .f1 { animation: floatCard1 5s ease-in-out infinite; }
     .f2 { animation: floatCard2 6s ease-in-out infinite; }
     .mono { font-family: 'JetBrains Mono', 'Fira Code', monospace; }
     .sans { font-family: 'Inter', system-ui, sans-serif; }
   </style>
 
-  <rect width="850" height="240" rx="16" fill="url(#projBg)" stroke="#30363d" stroke-width="1.5" />
+  <rect width="850" height="220" rx="14" fill="url(#projBg)" stroke="#30363d" stroke-width="1.2" />
 
   <!-- Header -->
-  <g transform="translate(35, 32)">
-    <circle cx="6" cy="0" r="5" fill="#ff5533" filter="url(#glowCard)" />
-    <text x="20" y="5" fill="#ffffff" font-size="16" font-weight="bold" class="sans">PROJECT TELEMETRY &amp; 3D ARCHITECTURE MATRIX</text>
-    <text x="20" y="22" fill="#8b949e" font-size="11" class="mono">[LIVE RADAR] Tracking active repositories, core frameworks &amp; deployment status</text>
+  <g transform="translate(40, 28)">
+    <circle cx="6" cy="0" r="4.5" fill="#ff5533" filter="url(#glowCard)" />
+    <text x="20" y="5" fill="#ffffff" font-size="15" font-weight="bold" class="sans">PROJECT TELEMETRY &amp; 3D ARCHITECTURE MATRIX</text>
+    <text x="20" y="21" fill="#8b949e" font-size="10.5" class="mono">[LIVE RADAR] Active repositories, core frameworks &amp; deployment status</text>
   </g>
 
   <!-- Card 1: Next-Gen AI Assistant -->
-  <g class="f1" transform="translate(35, 75)">
-    <rect width="180" height="135" rx="10" fill="url(#cardGrad1)" stroke="#ff5533" stroke-width="1.2" filter="url(#glowCard)" />
-    <rect width="180" height="4" rx="2" fill="#ff5533" />
-    <text x="14" y="24" fill="#ff8a65" font-size="9" font-weight="bold" class="mono">01 // AGENTIC AI</text>
-    <text x="14" y="42" fill="#ffffff" font-size="12.5" font-weight="bold" class="sans">Next-Gen AI</text>
+  <g class="f1" transform="translate(40, 68)">
+    <rect width="182" height="130" rx="9" fill="url(#cardGrad)" stroke="#ff5533" stroke-width="1.2" filter="url(#glowCard)" />
+    <rect width="182" height="3" rx="1.5" fill="#ff5533" />
+    <text x="14" y="23" fill="#ff8a65" font-size="9" font-weight="bold" class="mono">01 // AGENTIC AI</text>
+    <text x="14" y="42" fill="#ffffff" font-size="13" font-weight="bold" class="sans">Next-Gen AI</text>
     <text x="14" y="58" fill="#8b949e" font-size="10" class="sans">Autonomous multi-agent</text>
     <text x="14" y="72" fill="#8b949e" font-size="10" class="sans">assistant system</text>
     <!-- Tag -->
-    <rect x="14" y="84" width="75" height="18" rx="4" fill="#221614" stroke="#ff5533" stroke-width="0.8" />
-    <text x="22" y="97" fill="#ff8a65" font-size="9" class="mono">TypeScript</text>
-    <circle cx="152" cy="118" r="4" fill="#00ff88" />
-    <text x="110" y="121" fill="#8b949e" font-size="9" class="mono">ACTIVE</text>
+    <rect x="14" y="86" width="75" height="18" rx="4" fill="#221614" stroke="#ff5533" stroke-width="0.8" />
+    <text x="22" y="99" fill="#ff8a65" font-size="9" class="mono">TypeScript</text>
+    <circle cx="152" cy="115" r="4" fill="#00ff88" />
+    <text x="110" y="118" fill="#8b949e" font-size="9" class="mono">ACTIVE</text>
   </g>
 
   <!-- Card 2: RuralReach -->
-  <g class="f2" transform="translate(235, 75)">
-    <rect width="180" height="135" rx="10" fill="url(#cardGrad1)" stroke="#30363d" stroke-width="1.2" />
-    <rect width="180" height="4" rx="2" fill="#ffaa33" />
-    <text x="14" y="24" fill="#ffaa33" font-size="9" font-weight="bold" class="mono">02 // FULL-STACK</text>
-    <text x="14" y="42" fill="#ffffff" font-size="12.5" font-weight="bold" class="sans">RuralReach</text>
+  <g class="f2" transform="translate(236, 68)">
+    <rect width="182" height="130" rx="9" fill="url(#cardGrad)" stroke="#30363d" stroke-width="1.2" />
+    <rect width="182" height="3" rx="1.5" fill="#ffaa33" />
+    <text x="14" y="23" fill="#ffaa33" font-size="9" font-weight="bold" class="mono">02 // FULL-STACK</text>
+    <text x="14" y="42" fill="#ffffff" font-size="13" font-weight="bold" class="sans">RuralReach</text>
     <text x="14" y="58" fill="#8b949e" font-size="10" class="sans">Gamified education app</text>
     <text x="14" y="72" fill="#8b949e" font-size="10" class="sans">virtual garden &amp; drops</text>
     <!-- Tag -->
-    <rect x="14" y="84" width="125" height="18" rx="4" fill="#201c14" stroke="#ffaa33" stroke-width="0.8" />
-    <text x="20" y="97" fill="#ffaa33" font-size="9" class="mono">React &#8226; Node &#8226; Mongo</text>
-    <circle cx="152" cy="118" r="4" fill="#00ff88" />
-    <text x="110" y="121" fill="#8b949e" font-size="9" class="mono">DEPLOYED</text>
+    <rect x="14" y="86" width="125" height="18" rx="4" fill="#201c14" stroke="#ffaa33" stroke-width="0.8" />
+    <text x="20" y="99" fill="#ffaa33" font-size="9" class="mono">React &#8226; Node &#8226; Mongo</text>
+    <circle cx="152" cy="115" r="4" fill="#00ff88" />
+    <text x="110" y="118" fill="#8b949e" font-size="9" class="mono">DEPLOYED</text>
   </g>
 
   <!-- Card 3: BusCue -->
-  <g class="f1" transform="translate(435, 75)">
-    <rect width="180" height="135" rx="10" fill="url(#cardGrad1)" stroke="#30363d" stroke-width="1.2" />
-    <rect width="180" height="4" rx="2" fill="#ff7b5a" />
-    <text x="14" y="24" fill="#ff7b5a" font-size="9" font-weight="bold" class="mono">03 // TRANSIT TECH</text>
-    <text x="14" y="42" fill="#ffffff" font-size="12.5" font-weight="bold" class="sans">BusCue</text>
+  <g class="f1" transform="translate(432, 68)">
+    <rect width="182" height="130" rx="9" fill="url(#cardGrad)" stroke="#30363d" stroke-width="1.2" />
+    <rect width="182" height="3" rx="1.5" fill="#ff7b5a" />
+    <text x="14" y="23" fill="#ff7b5a" font-size="9" font-weight="bold" class="mono">03 // TRANSIT TECH</text>
+    <text x="14" y="42" fill="#ffffff" font-size="13" font-weight="bold" class="sans">BusCue</text>
     <text x="14" y="58" fill="#8b949e" font-size="10" class="sans">Real-time campus transit</text>
     <text x="14" y="72" fill="#8b949e" font-size="10" class="sans">&amp; bus tracking system</text>
     <!-- Tag -->
-    <rect x="14" y="84" width="100" height="18" rx="4" fill="#241816" stroke="#ff7b5a" stroke-width="0.8" />
-    <text x="20" y="97" fill="#ff7b5a" font-size="9" class="mono">Live Telemetry</text>
-    <circle cx="152" cy="118" r="4" fill="#ffaa33" />
-    <text x="110" y="121" fill="#8b949e" font-size="9" class="mono">BETA</text>
+    <rect x="14" y="86" width="100" height="18" rx="4" fill="#241816" stroke="#ff7b5a" stroke-width="0.8" />
+    <text x="20" y="99" fill="#ff7b5a" font-size="9" class="mono">Live Telemetry</text>
+    <circle cx="152" cy="115" r="4" fill="#ffaa33" />
+    <text x="110" y="118" fill="#8b949e" font-size="9" class="mono">BETA</text>
   </g>
 
   <!-- Card 4: Kiosk-1 Campus Compass -->
-  <g class="f2" transform="translate(635, 75)">
-    <rect width="180" height="135" rx="10" fill="url(#cardGrad1)" stroke="#30363d" stroke-width="1.2" />
-    <rect width="180" height="4" rx="2" fill="#e54d2e" />
-    <text x="14" y="24" fill="#e54d2e" font-size="9" font-weight="bold" class="mono">04 // CAMPUS IOT</text>
-    <text x="14" y="42" fill="#ffffff" font-size="12.5" font-weight="bold" class="sans">Campus Kiosk</text>
+  <g class="f2" transform="translate(628, 68)">
+    <rect width="182" height="130" rx="9" fill="url(#cardGrad)" stroke="#30363d" stroke-width="1.2" />
+    <rect width="182" height="3" rx="1.5" fill="#e54d2e" />
+    <text x="14" y="23" fill="#e54d2e" font-size="9" font-weight="bold" class="mono">04 // CAMPUS IOT</text>
+    <text x="14" y="42" fill="#ffffff" font-size="13" font-weight="bold" class="sans">Campus Kiosk</text>
     <text x="14" y="58" fill="#8b949e" font-size="10" class="sans">Interactive self-service</text>
     <text x="14" y="72" fill="#8b949e" font-size="10" class="sans">campus navigation hub</text>
     <!-- Tag -->
-    <rect x="14" y="84" width="100" height="18" rx="4" fill="#221414" stroke="#e54d2e" stroke-width="0.8" />
-    <text x="20" y="97" fill="#e54d2e" font-size="9" class="mono">Self-Service UI</text>
-    <circle cx="152" cy="118" r="4" fill="#00ff88" />
-    <text x="110" y="121" fill="#8b949e" font-size="9" class="mono">LIVE</text>
+    <rect x="14" y="86" width="100" height="18" rx="4" fill="#221414" stroke="#e54d2e" stroke-width="0.8" />
+    <text x="20" y="99" fill="#e54d2e" font-size="9" class="mono">Self-Service UI</text>
+    <circle cx="152" cy="115" r="4" fill="#00ff88" />
+    <text x="110" y="118" fill="#8b949e" font-size="9" class="mono">LIVE</text>
   </g>
 </svg>
