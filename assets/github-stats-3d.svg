@@ -54,28 +54,28 @@
  <g transform="translate(182, 36)">
  <rect width="170" height="48" rx="8" fill="#141c2c" stroke="#30363d" stroke-width="1" />
  <text x="14" y="18" fill="#8b949e" font-size="9" font-weight="bold" class="mono">CORE ECOSYSTEM</text>
- <text x="14" y="37" fill="#58a6ff" font-size="14" font-weight="bold" class="sans">TypeScript / AI</text>
+ <text x="14" y="37" fill="#58a6ff" font-size="13" font-weight="bold" class="sans">Python / TS / Swift</text>
  </g>
 
  <!-- Metric 3: Hackathons & Community -->
  <g transform="translate(0, 92)">
  <rect width="170" height="48" rx="8" fill="#141c2c" stroke="#30363d" stroke-width="1" />
  <text x="14" y="18" fill="#8b949e" font-size="9" font-weight="bold" class="mono">TECH HACKATHONS</text>
- <text x="14" y="38" fill="#ffaa33" font-size="18" font-weight="900" class="sans">27+ Battles</text>
+ <text x="14" y="38" fill="#ffaa33" font-size="18" font-weight="900" class="sans">30+ Battles</text>
  </g>
 
  <!-- Metric 4: Community Service -->
  <g transform="translate(182, 92)">
  <rect width="170" height="48" rx="8" fill="#141c2c" stroke="#30363d" stroke-width="1" />
- <text x="14" y="18" fill="#8b949e" font-size="9" font-weight="bold" class="mono">NSS LEAD SERVICE</text>
- <text x="14" y="38" fill="#00ff88" font-size="18" font-weight="900" class="sans">240h+ Certified</text>
+ <text x="14" y="18" fill="#8b949e" font-size="9" font-weight="bold" class="mono">LEADERSHIP SERVICE</text>
+ <text x="14" y="38" fill="#00ff88" font-size="18" font-weight="900" class="sans">240h+ NSS &amp; Lead</text>
  </g>
 
  <!-- Rating Footer Pill -->
  <g transform="translate(0, 148)">
  <rect width="352" height="26" rx="6" fill="#121824" stroke="#ff5533" stroke-width="0.8" stroke-opacity="0.7" />
- <text x="12" y="17" fill="#8b949e" font-size="9.5" font-weight="600" class="mono">DEVELOPER GRADE:</text>
- <text x="120" y="17" fill="#ff5533" font-size="10.5" font-weight="900" class="mono">A++ [POLYGLOT FULL-STACK ARCHITECT]</text>
+ <text x="12" y="17" fill="#8b949e" font-size="9.5" font-weight="600" class="mono">DEVELOPER PROFILE:</text>
+ <text x="124" y="17" fill="#ff5533" font-size="10.5" font-weight="900" class="mono">A++ [FULL-STACK, IOS &amp; AI BUILDER]</text>
  </g>
  </g>
 

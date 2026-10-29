@@ -56,66 +56,66 @@
     <g class="anim-float-a">
       <rect width="180" height="132" rx="10" fill="url(#cardGrad1)" stroke="#ff5533" stroke-width="1.2" filter="url(#glowCard)" />
       <rect width="180" height="3" rx="1.5" fill="#ff5533" />
-      <text x="14" y="24" fill="#ff8a65" font-size="9" font-weight="bold" class="mono">01 // AGENTIC AI</text>
+      <text x="14" y="24" fill="#ff8a65" font-size="9" font-weight="bold" class="mono">01 // BEST TECH PROJECT</text>
       <text x="14" y="44" fill="#ffffff" font-size="13.5" font-weight="bold" class="sans">Next-Gen AI</text>
-      <text x="14" y="60" fill="#8b949e" font-size="10" class="sans">Autonomous multi-agent</text>
-      <text x="14" y="74" fill="#8b949e" font-size="10" class="sans">assistant system</text>
+      <text x="14" y="60" fill="#8b949e" font-size="10" class="sans">Voice &amp; text terminal</text>
+      <text x="14" y="74" fill="#8b949e" font-size="10" class="sans">LLaMA 3.3 + Whisper</text>
       <!-- Tag -->
-      <rect x="14" y="88" width="75" height="18" rx="4" fill="#221614" stroke="#ff5533" stroke-width="0.8" />
-      <text x="22" y="101" fill="#ff8a65" font-size="9" class="mono">TypeScript</text>
+      <rect x="14" y="88" width="130" height="18" rx="4" fill="#221614" stroke="#ff5533" stroke-width="0.8" />
+      <text x="20" y="101" fill="#ff8a65" font-size="9" class="mono">Python &#8226; Groq &#8226; LLaMA</text>
       <circle cx="152" cy="116" r="4" fill="#00ff88" />
       <text x="110" y="119" fill="#8b949e" font-size="9" class="mono">ACTIVE</text>
     </g>
   </g>
 
-  <!-- CARD 2: RuralReach -->
+  <!-- CARD 2: GhostOps -->
   <g transform="translate(236, 72)">
     <g class="anim-float-b">
       <rect width="180" height="132" rx="10" fill="url(#cardGrad1)" stroke="#30363d" stroke-width="1.2" filter="url(#cardShadow)" />
       <rect width="180" height="3" rx="1.5" fill="#ffaa33" />
-      <text x="14" y="24" fill="#ffaa33" font-size="9" font-weight="bold" class="mono">02 // FULL-STACK</text>
-      <text x="14" y="44" fill="#ffffff" font-size="13.5" font-weight="bold" class="sans">RuralReach</text>
-      <text x="14" y="60" fill="#8b949e" font-size="10" class="sans">Gamified education app</text>
-      <text x="14" y="74" fill="#8b949e" font-size="10" class="sans">virtual garden &amp; drops</text>
+      <text x="14" y="24" fill="#ffaa33" font-size="9" font-weight="bold" class="mono">02 // CYBERSECURITY</text>
+      <text x="14" y="44" fill="#ffffff" font-size="13.5" font-weight="bold" class="sans">GhostOps</text>
+      <text x="14" y="60" fill="#8b949e" font-size="10" class="sans">Zero-trust offboarding</text>
+      <text x="14" y="74" fill="#8b949e" font-size="10" class="sans">AWS IAM, GitHub &amp; SSH</text>
       <!-- Tag -->
-      <rect x="14" y="88" width="125" height="18" rx="4" fill="#201c14" stroke="#ffaa33" stroke-width="0.8" />
-      <text x="20" y="101" fill="#ffaa33" font-size="9" class="mono">React &#8226; Node &#8226; Mongo</text>
+      <rect x="14" y="88" width="145" height="18" rx="4" fill="#201c14" stroke="#ffaa33" stroke-width="0.8" />
+      <text x="18" y="101" fill="#ffaa33" font-size="9" class="mono">FastAPI &#8226; Docker &#8226; React</text>
       <circle cx="152" cy="116" r="4" fill="#00ff88" />
-      <text x="110" y="119" fill="#8b949e" font-size="9" class="mono">DEPLOYED</text>
+      <text x="100" y="119" fill="#8b949e" font-size="9" class="mono">36H SPRINT</text>
     </g>
   </g>
 
-  <!-- CARD 3: BusCue -->
+  <!-- CARD 3: GATE Layover -->
   <g transform="translate(432, 72)">
     <g class="anim-float-a">
       <rect width="180" height="132" rx="10" fill="url(#cardGrad1)" stroke="#30363d" stroke-width="1.2" filter="url(#cardShadow)" />
       <rect width="180" height="3" rx="1.5" fill="#ff7b5a" />
-      <text x="14" y="24" fill="#ff7b5a" font-size="9" font-weight="bold" class="mono">03 // TRANSIT TECH</text>
-      <text x="14" y="44" fill="#ffffff" font-size="13.5" font-weight="bold" class="sans">BusCue</text>
-      <text x="14" y="60" fill="#8b949e" font-size="10" class="sans">Real-time campus transit</text>
-      <text x="14" y="74" fill="#8b949e" font-size="10" class="sans">&amp; bus tracking system</text>
+      <text x="14" y="24" fill="#ff7b5a" font-size="9" font-weight="bold" class="mono">03 // TRAVEL TECH</text>
+      <text x="14" y="44" fill="#ffffff" font-size="13.5" font-weight="bold" class="sans">GATE Layover</text>
+      <text x="14" y="60" fill="#8b949e" font-size="10" class="sans">Location missions, XP</text>
+      <text x="14" y="74" fill="#8b949e" font-size="10" class="sans">&amp; travel memory passport</text>
       <!-- Tag -->
-      <rect x="14" y="88" width="100" height="18" rx="4" fill="#241816" stroke="#ff7b5a" stroke-width="0.8" />
-      <text x="20" y="101" fill="#ff7b5a" font-size="9" class="mono">Transit Telemetry</text>
-      <circle cx="152" cy="116" r="4" fill="#ffaa33" />
-      <text x="110" y="119" fill="#8b949e" font-size="9" class="mono">BETA</text>
+      <rect x="14" y="88" width="138" height="18" rx="4" fill="#241816" stroke="#ff7b5a" stroke-width="0.8" />
+      <text x="18" y="101" fill="#ff7b5a" font-size="9" class="mono">Next.js &#8226; Supabase &#8226; Groq</text>
+      <circle cx="152" cy="116" r="4" fill="#00ff88" />
+      <text x="100" y="119" fill="#8b949e" font-size="9" class="mono">DEPLOYED</text>
     </g>
   </g>
 
-  <!-- CARD 4: Kiosk-1 Campus Compass -->
+  <!-- CARD 4: Pylon Smart Finder -->
   <g transform="translate(628, 72)">
     <g class="anim-float-b">
       <rect width="180" height="132" rx="10" fill="url(#cardGrad1)" stroke="#30363d" stroke-width="1.2" filter="url(#cardShadow)" />
       <rect width="180" height="3" rx="1.5" fill="#e54d2e" />
-      <text x="14" y="24" fill="#e54d2e" font-size="9" font-weight="bold" class="mono">04 // CAMPUS IOT</text>
-      <text x="14" y="44" fill="#ffffff" font-size="13.5" font-weight="bold" class="sans">Campus Kiosk</text>
-      <text x="14" y="60" fill="#8b949e" font-size="10" class="sans">Interactive self-service</text>
-      <text x="14" y="74" fill="#8b949e" font-size="10" class="sans">campus navigation hub</text>
+      <text x="14" y="24" fill="#e54d2e" font-size="9" font-weight="bold" class="mono">04 // 2ND PRIZE WEBATHON</text>
+      <text x="14" y="44" fill="#ffffff" font-size="13.5" font-weight="bold" class="sans">Pylon Finder</text>
+      <text x="14" y="60" fill="#8b949e" font-size="10" class="sans">Smart scholarship match</text>
+      <text x="14" y="74" fill="#8b949e" font-size="10" class="sans">custom filter algorithm</text>
       <!-- Tag -->
-      <rect x="14" y="88" width="100" height="18" rx="4" fill="#221414" stroke="#e54d2e" stroke-width="0.8" />
-      <text x="20" y="101" fill="#e54d2e" font-size="9" class="mono">Self-Service UI</text>
+      <rect x="14" y="88" width="125" height="18" rx="4" fill="#221414" stroke="#e54d2e" stroke-width="0.8" />
+      <text x="20" y="101" fill="#e54d2e" font-size="9" class="mono">Vanilla HTML &#8226; CSS &#8226; JS</text>
       <circle cx="152" cy="116" r="4" fill="#00ff88" />
-      <text x="110" y="119" fill="#8b949e" font-size="9" class="mono">DEPLOYED</text>
+      <text x="100" y="119" fill="#8b949e" font-size="9" class="mono">PRODUCTION</text>
     </g>
   </g>
 </svg>

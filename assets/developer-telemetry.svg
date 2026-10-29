@@ -61,14 +61,14 @@
 
  <!-- Column 2: System Specs & Lore -->
  <g transform="translate(160, 20)">
- <text y="0"><tspan class="txt-orange">OS</tspan><tspan class="txt-muted">: </tspan><tspan class="txt-white">B.Tech CSE (Year 2) @ Christ College of Engineering</tspan></text>
- <text y="18"><tspan class="txt-orange">Roles</tspan><tspan class="txt-muted">: </tspan><tspan class="txt-white">SWE Intern @ Torcue &#8226; Design Lead @ IEEE &#8226; Co-CFO @ IEDC</tspan></text>
- <text y="36"><tspan class="txt-orange">Current Quest</tspan><tspan class="txt-muted">: </tspan><tspan class="txt-white">Shipping Agentic AI + 3D Interactive Web Platforms</tspan></text>
- <text y="54"><tspan class="txt-orange">Hackathons</tspan><tspan class="txt-muted">: </tspan><tspan class="txt-amber">27+ tech battles across Kerala &amp; counting</tspan></text>
- <text y="72"><tspan class="txt-orange">Public Impact</tspan><tspan class="txt-muted">: </tspan><tspan class="txt-white">240+ NSS Certified Hours &#8226; 30 Open Source Repos</tspan></text>
- <text y="90"><tspan class="txt-orange">Co-Pilot</tspan><tspan class="txt-muted">: </tspan><tspan class="txt-white">1 Very Opinionated Orange Kitten (Head of Debugging) </tspan></text>
+ <text y="0"><tspan class="txt-orange">OS</tspan><tspan class="txt-muted">: </tspan><tspan class="txt-white">B.Tech CSE (Year 2) @ Christ College of Engineering, Irinjalakuda</tspan></text>
+ <text y="18"><tspan class="txt-orange">Roles</tspan><tspan class="txt-muted">: </tspan><tspan class="txt-white">SWE Intern @ Torcue &#8226; Design Lead @ IEEE EDS/CT/Nano Jt &#8226; Co-CFO @ IEDC</tspan></text>
+ <text y="36"><tspan class="txt-orange">Current Quest</tspan><tspan class="txt-muted">: </tspan><tspan class="txt-white">Building Full-Stack Web, iOS &amp; AI Products (LLaMA 3.3, Groq, Whisper)</tspan></text>
+ <text y="54"><tspan class="txt-orange">Hackathons</tspan><tspan class="txt-muted">: </tspan><tspan class="txt-amber">30+ battles (Winner @ Google Build with AI, 2nd @ Webathon)</tspan></text>
+ <text y="72"><tspan class="txt-orange">Community</tspan><tspan class="txt-muted">: </tspan><tspan class="txt-white">TinkerHub Learning Coordinator &#8226; NSS Leader &#8226; 40 Repos</tspan></text>
+ <text y="90"><tspan class="txt-orange">Co-Pilot</tspan><tspan class="txt-muted">: </tspan><tspan class="txt-white">1 Very Opinionated Orange Kitten (Head of Debugging)</tspan></text>
  <text y="108"><tspan class="txt-orange">Memory &amp; Fuel</tspan><tspan class="txt-muted">: </tspan><tspan class="txt-green">[████████████████████] 99.8% Caffeine (#E54D2E)</tspan></text>
- <text y="126"><tspan class="txt-green">status</tspan><tspan class="txt-muted">: </tspan><tspan class="txt-white">Ready for high-impact builds &amp; open-source collaborations </tspan><tspan class="txt-orange cursor">▌</tspan></text>
+ <text y="126"><tspan class="txt-green">status</tspan><tspan class="txt-muted">: </tspan><tspan class="txt-white">Ready for SDE internships &amp; high-impact engineering </tspan><tspan class="txt-orange cursor">▌</tspan></text>
  </g>
  </g>
 </svg>
