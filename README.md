@@ -10,7 +10,7 @@
   <p align="center">
     <a href="https://komarev.com/ghpvc/?username=sidoxsinu"><img src="https://img.shields.io/badge/VIEWS-sidoxsinu-ff5533?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="Views" /></a>
     <a href="https://muhammedsinan.in" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-muhammedsinan.in-ff5533?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio" /></a>
-    <a href="https://linkedin.com/in/muhammed-sinan-m-63772b342" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-Muhammed_Sinan-ff5533?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
+    <a href="https://linkedin.com/in/sidoxsinu" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-sidoxsinu-ff5533?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
     <a href="https://twitter.com/sidoxsinu" target="_blank"><img src="https://img.shields.io/badge/TWITTER-@sidoxsinu-ff5533?style=flat-square&logo=x&logoColor=white&labelColor=0d1117" alt="Twitter" /></a>
     <a href="mailto:muhammedsinan.m67@gmail.com"><img src="https://img.shields.io/badge/EMAIL-muhammedsinan-ff5533?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
   </p>
@@ -366,8 +366,8 @@
     <img src="https://img.shields.io/badge/WEBSITE-muhammedsinan.in-ff5533?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0d1117" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/muhammed-sinan-m-63772b342" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-Muhammed_Sinan-ff5533?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" />
+  <a href="https://linkedin.com/in/sidoxsinu" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-sidoxsinu-ff5533?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" />
   </a>
   &nbsp;
   <a href="https://twitter.com/sidoxsinu" target="_blank">
