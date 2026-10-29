@@ -124,20 +124,24 @@
  <line x1="0" y1="0" x2="850" y2="0" stroke="#ff5533" stroke-width="1.5" opacity="0.35" class="scanning-line" />
 
  <!-- Floating 3D Isometric Elements (Left) -->
- <g class="float-1" transform="translate(65, 50)">
- <polygon points="36,8 68,24 36,40 4,24" fill="url(#cubeTop)" stroke="#ffa07a" stroke-width="1.2" filter="url(#shadow3D)" />
- <polygon points="4,24 36,40 36,75 4,59" fill="url(#cubeLeft)" stroke="#ff5533" stroke-width="1.2" />
- <polygon points="36,40 68,24 68,59 36,75" fill="url(#cubeRight)" stroke="#ff5533" stroke-width="1.2" />
- <circle cx="36" cy="40" r="3" fill="#ffffff" filter="url(#neonGlow)" />
+ <g transform="translate(65, 50)">
+  <g class="float-1">
+   <polygon points="36,8 68,24 36,40 4,24" fill="url(#cubeTop)" stroke="#ffa07a" stroke-width="1.2" filter="url(#shadow3D)" />
+   <polygon points="4,24 36,40 36,75 4,59" fill="url(#cubeLeft)" stroke="#ff5533" stroke-width="1.2" />
+   <polygon points="36,40 68,24 68,59 36,75" fill="url(#cubeRight)" stroke="#ff5533" stroke-width="1.2" />
+   <circle cx="36" cy="40" r="3" fill="#ffffff" filter="url(#neonGlow)" />
+  </g>
  </g>
 
  <!-- Floating 3D Octahedron / Diamond (Right) -->
- <g class="float-2" transform="translate(720, 110)">
- <polygon points="40,0 72,32 40,64 8,32" fill="url(#cubeTop)" stroke="#ffa07a" stroke-width="1.2" filter="url(#shadow3D)" />
- <polygon points="40,0 40,64 72,32" fill="url(#cubeRight)" opacity="0.9" />
- <polygon points="40,0 8,32 40,64" fill="url(#cubeLeft)" opacity="0.85" />
- <polygon points="40,14 58,32 40,50 22,32" fill="#ffffff" opacity="0.8" filter="url(#neonGlow)" />
- <ellipse cx="40" cy="32" rx="50" ry="16" fill="none" stroke="#ff8a65" stroke-width="1.2" stroke-dasharray="3,3" opacity="0.75" transform="rotate(-20 40 32)" />
+ <g transform="translate(720, 110)">
+  <g class="float-2">
+   <polygon points="40,0 72,32 40,64 8,32" fill="url(#cubeTop)" stroke="#ffa07a" stroke-width="1.2" filter="url(#shadow3D)" />
+   <polygon points="40,0 40,64 72,32" fill="url(#cubeRight)" opacity="0.9" />
+   <polygon points="40,0 8,32 40,64" fill="url(#cubeLeft)" opacity="0.85" />
+   <polygon points="40,14 58,32 40,50 22,32" fill="#ffffff" opacity="0.8" filter="url(#neonGlow)" />
+   <ellipse cx="40" cy="32" rx="50" ry="16" fill="none" stroke="#ff8a65" stroke-width="1.2" stroke-dasharray="3,3" opacity="0.75" transform="rotate(-20 40 32)" />
+  </g>
  </g>
 
  <!-- Top HUD Bar -->
