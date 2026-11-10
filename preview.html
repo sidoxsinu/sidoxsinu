@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Cards Preview</title>
+  <style>
+    body {
+      background-color: #0d1117;
+      margin: 0;
+      padding: 30px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 16px;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    }
+    .preview-container {
+      width: 850px;
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
+    .tiles-row {
+      display: flex;
+      justify-content: space-between;
+      width: 100%;
+    }
+    img {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <div class="preview-container">
+    <img width="100%" src="cards/hero.svg" alt="Hero" />
+    <div class="tiles-row">
+      <img style="width: 32.5%;" src="cards/tile-1.svg" alt="Tile 1" />
+      <img style="width: 32.5%;" src="cards/tile-2.svg" alt="Tile 2" />
+      <img style="width: 32.5%;" src="cards/tile-3.svg" alt="Tile 3" />
+    </div>
+    <img width="100%" src="cards/contributions-chart.svg" alt="Contributions Chart" />
+    <img width="100%" src="cards/repo-next-gen-ai.svg" alt="Repo 1" />
+    <img width="100%" src="cards/repo-ghostops.svg" alt="Repo 2" />
+    <img width="100%" src="cards/repo-gate-layover.svg" alt="Repo 3" />
+    <img width="100%" src="cards/repo-pylon.svg" alt="Repo 4" />
+    <img width="100%" src="cards/contribution-graph.svg" alt="Contribution Graph" />
+  </div>
+</body>
+</html>

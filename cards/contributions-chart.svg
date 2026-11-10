@@ -1,0 +1,366 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 285" width="100%" height="100%">
+  <defs>
+    <linearGradient id="chartCardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#121216" />
+      <stop offset="100%" stop-color="#17171d" />
+    </linearGradient>
+  </defs>
+  <style>
+    
+        @font-face {
+          font-family: 'General Sans';
+          font-style: normal;
+          font-weight: 700;
+          src: url('data:font/woff;charset=utf-8;base64,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') format('woff');
+        }
+
+        @font-face {
+          font-family: 'General Sans';
+          font-style: normal;
+          font-weight: 500;
+          src: url('data:font/woff;charset=utf-8;base64,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') format('woff');
+        }
+
+        @font-face {
+          font-family: 'JetBrains Mono';
+          font-style: normal;
+          font-weight: 500;
+          src: url('data:font/woff;charset=utf-8;base64,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') format('woff');
+        }
+    
+      
+        .card-container {
+          opacity: 0;
+          animation: cardFadeIn 0.75s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+          animation-delay: 0.75s;
+        }
+        @keyframes cardFadeIn {
+          0% { opacity: 0; transform: translateY(8px); }
+          100% { opacity: 1; transform: translateY(0); }
+        }
+        @keyframes pulseRing {
+          0%, 100% { stroke-opacity: 0.3; transform: scale(1); }
+          50% { stroke-opacity: 0.85; transform: scale(1.02); }
+        }
+        @keyframes pulseDot {
+          0%, 100% { opacity: 0.4; transform: scale(1); }
+          50% { opacity: 1; transform: scale(1.15); }
+        }
+        .pulse-dot {
+          animation: pulseDot 2.2s ease-in-out infinite;
+          transform-origin: center;
+        }
+        .pulse-ring {
+          animation: pulseRing 3.5s ease-in-out infinite;
+          transform-origin: center;
+        }
+        
+      @media (prefers-reduced-motion: reduce) {
+        *, *::before, *::after {
+          animation: none !important;
+          transition: none !important;
+        }
+        .card-container {
+          opacity: 1 !important;
+        }
+        .pulse-dot, .pulse-ring {
+          animation: none !important;
+          opacity: 1 !important;
+        }
+      }
+      .font-sans { font-family: 'General Sans', system-ui, -apple-system, sans-serif; }
+      .font-mono { font-family: 'JetBrains Mono', 'Fira Code', monospace; }
+    
+    
+            @keyframes riseBar_0 {
+              0% { height: 0px; y: 240px; opacity: 0; }
+              100% { height: 2.5px; y: 237.5px; opacity: 1; }
+            }
+            .chart-bar-0 {
+              animation: riseBar_0 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+              animation-delay: 0.85s;
+            }
+
+            @keyframes riseBar_1 {
+              0% { height: 0px; y: 240px; opacity: 0; }
+              100% { height: 3.8px; y: 236.2px; opacity: 1; }
+            }
+            .chart-bar-1 {
+              animation: riseBar_1 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+              animation-delay: 0.89s;
+            }
+
+            @keyframes riseBar_2 {
+              0% { height: 0px; y: 240px; opacity: 0; }
+              100% { height: 2.5px; y: 237.5px; opacity: 1; }
+            }
+            .chart-bar-2 {
+              animation: riseBar_2 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+              animation-delay: 0.92s;
+            }
+
+            @keyframes riseBar_3 {
+              0% { height: 0px; y: 240px; opacity: 0; }
+              100% { height: 12.8px; y: 227.2px; opacity: 1; }
+            }
+            .chart-bar-3 {
+              animation: riseBar_3 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+              animation-delay: 0.95s;
+            }
+
+            @keyframes riseBar_4 {
+              0% { height: 0px; y: 240px; opacity: 0; }
+              100% { height: 27.1px; y: 212.9px; opacity: 1; }
+            }
+            .chart-bar-4 {
+              animation: riseBar_4 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+              animation-delay: 0.99s;
+            }
+
+            @keyframes riseBar_5 {
+              0% { height: 0px; y: 240px; opacity: 0; }
+              100% { height: 17.6px; y: 222.4px; opacity: 1; }
+            }
+            .chart-bar-5 {
+              animation: riseBar_5 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+              animation-delay: 1.02s;
+            }
+
+            @keyframes riseBar_6 {
+              0% { height: 0px; y: 240px; opacity: 0; }
+              100% { height: 43.7px; y: 196.3px; opacity: 1; }
+            }
+            .chart-bar-6 {
+              animation: riseBar_6 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+              animation-delay: 1.06s;
+            }
+
+            @keyframes riseBar_7 {
+              0% { height: 0px; y: 240px; opacity: 0; }
+              100% { height: 11.9px; y: 228.1px; opacity: 1; }
+            }
+            .chart-bar-7 {
+              animation: riseBar_7 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+              animation-delay: 1.09s;
+            }
+
+            @keyframes riseBar_8 {
+              0% { height: 0px; y: 240px; opacity: 0; }
+              100% { height: 14.7px; y: 225.3px; opacity: 1; }
+            }
+            .chart-bar-8 {
+              animation: riseBar_8 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+              animation-delay: 1.13s;
+            }
+
+            @keyframes riseBar_9 {
+              0% { height: 0px; y: 240px; opacity: 0; }
+              100% { height: 14.2px; y: 225.8px; opacity: 1; }
+            }
+            .chart-bar-9 {
+              animation: riseBar_9 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+              animation-delay: 1.17s;
+            }
+
+            @keyframes riseBar_10 {
+              0% { height: 0px; y: 240px; opacity: 0; }
+              100% { height: 92.6px; y: 147.4px; opacity: 1; }
+            }
+            .chart-bar-10 {
+              animation: riseBar_10 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+              animation-delay: 1.20s;
+            }
+
+            @keyframes riseBar_11 {
+              0% { height: 0px; y: 240px; opacity: 0; }
+              100% { height: 33.2px; y: 206.8px; opacity: 1; }
+            }
+            .chart-bar-11 {
+              animation: riseBar_11 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+              animation-delay: 1.23s;
+            }
+  </style>
+
+  <g class="card-container">
+    <rect width="850" height="285" rx="16" fill="url(#chartCardBg)" stroke="#26262e" stroke-width="1.2" />
+
+    <!-- Card Header -->
+    <g transform="translate(36, 32)">
+      <text x="0" y="0" fill="#ffffff" font-size="16" font-weight="700" class="font-sans">Contribution Velocity &amp; Activity Metrics</text>
+      <text x="0" y="18" fill="#888891" font-size="11" class="font-mono">Verified GitHub commit telemetry across the last 12 months</text>
+    </g>
+
+    <!-- 4 Top Metric Tiles -->
+    <g transform="translate(36, 68)">
+      <!-- Metric 1: Total Commits -->
+      <g transform="translate(0, 0)">
+        <rect width="184" height="44" rx="8" fill="#181822" stroke="#26262e" stroke-width="0.9" />
+        <text x="14" y="16" fill="#888891" font-size="9" font-weight="600" class="font-mono">TOTAL CONTRIBUTIONS</text>
+        <text x="14" y="34" fill="#e54d2e" font-size="16" font-weight="700" class="font-mono">586</text>
+      </g>
+
+      <!-- Metric 2: Active Days -->
+      <g transform="translate(198, 0)">
+        <rect width="184" height="44" rx="8" fill="#181822" stroke="#26262e" stroke-width="0.9" />
+        <text x="14" y="16" fill="#888891" font-size="9" font-weight="600" class="font-mono">ACTIVE COMMITTING DAYS</text>
+        <text x="14" y="34" fill="#58a6ff" font-size="16" font-weight="700" class="font-mono">88 Days</text>
+      </g>
+
+      <!-- Metric 3: Longest Streak -->
+      <g transform="translate(396, 0)">
+        <rect width="184" height="44" rx="8" fill="#181822" stroke="#26262e" stroke-width="0.9" />
+        <text x="14" y="16" fill="#888891" font-size="9" font-weight="600" class="font-mono">LONGEST STREAK</text>
+        <text x="14" y="34" fill="#ffaa33" font-size="16" font-weight="700" class="font-mono">9 Days</text>
+      </g>
+
+      <!-- Metric 4: Busiest Day -->
+      <g transform="translate(594, 0)">
+        <rect width="184" height="44" rx="8" fill="#181822" stroke="#26262e" stroke-width="0.9" />
+        <text x="14" y="16" fill="#888891" font-size="9" font-weight="600" class="font-mono">BUSIEST DAY</text>
+        <text x="14" y="34" fill="#00bb7f" font-size="16" font-weight="700" class="font-mono">Nov 03 (54)</text>
+      </g>
+    </g>
+
+    <!-- Reference Gridlines -->
+    <g opacity="0.25">
+      <line x1="50" y1="145" x2="800" y2="145" stroke="#26262e" stroke-dasharray="3,3" />
+      <line x1="50" y1="192.5" x2="800" y2="192.5" stroke="#26262e" stroke-dasharray="3,3" />
+      <line x1="50" y1="240" x2="800" y2="240" stroke="#26262e" />
+    </g>
+
+    <!-- Monthly Bars -->
+    
+        <!-- Month Dec: 0 commits -->
+        <g>
+          <!-- Base track -->
+          <rect x="58.0" y="145" width="32" height="95" rx="5" fill="#1b1b22" opacity="0.6" />
+          <!-- Animated Bar -->
+          <rect class="chart-bar-0" x="58.0" y="237.5" width="32" height="2.5" rx="5" fill="#22222e" />
+          
+          <!-- Month label below -->
+          <text x="74" y="258" text-anchor="middle" fill="#888891" font-size="11" font-weight="500" class="font-sans">Dec</text>
+        </g>
+        
+        <!-- Month Jan: 8 commits -->
+        <g>
+          <!-- Base track -->
+          <rect x="122.0" y="145" width="32" height="95" rx="5" fill="#1b1b22" opacity="0.6" />
+          <!-- Animated Bar -->
+          <rect class="chart-bar-1" x="122.0" y="236.2" width="32" height="3.8" rx="5" fill="#58a6ff" />
+          <text x="138" y="230.2" text-anchor="middle" fill="#ffffff" font-size="10" font-weight="700" class="font-mono">8</text>
+          <!-- Month label below -->
+          <text x="138" y="258" text-anchor="middle" fill="#888891" font-size="11" font-weight="500" class="font-sans">Jan</text>
+        </g>
+        
+        <!-- Month Feb: 0 commits -->
+        <g>
+          <!-- Base track -->
+          <rect x="186.0" y="145" width="32" height="95" rx="5" fill="#1b1b22" opacity="0.6" />
+          <!-- Animated Bar -->
+          <rect class="chart-bar-2" x="186.0" y="237.5" width="32" height="2.5" rx="5" fill="#22222e" />
+          
+          <!-- Month label below -->
+          <text x="202" y="258" text-anchor="middle" fill="#888891" font-size="11" font-weight="500" class="font-sans">Feb</text>
+        </g>
+        
+        <!-- Month Mar: 27 commits -->
+        <g>
+          <!-- Base track -->
+          <rect x="250.0" y="145" width="32" height="95" rx="5" fill="#1b1b22" opacity="0.6" />
+          <!-- Animated Bar -->
+          <rect class="chart-bar-3" x="250.0" y="227.2" width="32" height="12.8" rx="5" fill="#58a6ff" />
+          <text x="266" y="221.2" text-anchor="middle" fill="#ffffff" font-size="10" font-weight="700" class="font-mono">27</text>
+          <!-- Month label below -->
+          <text x="266" y="258" text-anchor="middle" fill="#888891" font-size="11" font-weight="500" class="font-sans">Mar</text>
+        </g>
+        
+        <!-- Month Apr: 57 commits -->
+        <g>
+          <!-- Base track -->
+          <rect x="314.0" y="145" width="32" height="95" rx="5" fill="#1b1b22" opacity="0.6" />
+          <!-- Animated Bar -->
+          <rect class="chart-bar-4" x="314.0" y="212.9" width="32" height="27.1" rx="5" fill="#ffaa33" />
+          <text x="330" y="206.9" text-anchor="middle" fill="#ffffff" font-size="10" font-weight="700" class="font-mono">57</text>
+          <!-- Month label below -->
+          <text x="330" y="258" text-anchor="middle" fill="#888891" font-size="11" font-weight="500" class="font-sans">Apr</text>
+        </g>
+        
+        <!-- Month May: 37 commits -->
+        <g>
+          <!-- Base track -->
+          <rect x="378.0" y="145" width="32" height="95" rx="5" fill="#1b1b22" opacity="0.6" />
+          <!-- Animated Bar -->
+          <rect class="chart-bar-5" x="378.0" y="222.4" width="32" height="17.6" rx="5" fill="#ffaa33" />
+          <text x="394" y="216.4" text-anchor="middle" fill="#ffffff" font-size="10" font-weight="700" class="font-mono">37</text>
+          <!-- Month label below -->
+          <text x="394" y="258" text-anchor="middle" fill="#888891" font-size="11" font-weight="500" class="font-sans">May</text>
+        </g>
+        
+        <!-- Month Jun: 92 commits -->
+        <g>
+          <!-- Base track -->
+          <rect x="442.0" y="145" width="32" height="95" rx="5" fill="#1b1b22" opacity="0.6" />
+          <!-- Animated Bar -->
+          <rect class="chart-bar-6" x="442.0" y="196.3" width="32" height="43.7" rx="5" fill="#e54d2e" />
+          <text x="458" y="190.3" text-anchor="middle" fill="#ffffff" font-size="10" font-weight="700" class="font-mono">92</text>
+          <!-- Month label below -->
+          <text x="458" y="258" text-anchor="middle" fill="#888891" font-size="11" font-weight="500" class="font-sans">Jun</text>
+        </g>
+        
+        <!-- Month Jul: 25 commits -->
+        <g>
+          <!-- Base track -->
+          <rect x="506.0" y="145" width="32" height="95" rx="5" fill="#1b1b22" opacity="0.6" />
+          <!-- Animated Bar -->
+          <rect class="chart-bar-7" x="506.0" y="228.1" width="32" height="11.9" rx="5" fill="#58a6ff" />
+          <text x="522" y="222.1" text-anchor="middle" fill="#ffffff" font-size="10" font-weight="700" class="font-mono">25</text>
+          <!-- Month label below -->
+          <text x="522" y="258" text-anchor="middle" fill="#888891" font-size="11" font-weight="500" class="font-sans">Jul</text>
+        </g>
+        
+        <!-- Month Aug: 31 commits -->
+        <g>
+          <!-- Base track -->
+          <rect x="570.0" y="145" width="32" height="95" rx="5" fill="#1b1b22" opacity="0.6" />
+          <!-- Animated Bar -->
+          <rect class="chart-bar-8" x="570.0" y="225.3" width="32" height="14.7" rx="5" fill="#ffaa33" />
+          <text x="586" y="219.3" text-anchor="middle" fill="#ffffff" font-size="10" font-weight="700" class="font-mono">31</text>
+          <!-- Month label below -->
+          <text x="586" y="258" text-anchor="middle" fill="#888891" font-size="11" font-weight="500" class="font-sans">Aug</text>
+        </g>
+        
+        <!-- Month Sep: 30 commits -->
+        <g>
+          <!-- Base track -->
+          <rect x="634.0" y="145" width="32" height="95" rx="5" fill="#1b1b22" opacity="0.6" />
+          <!-- Animated Bar -->
+          <rect class="chart-bar-9" x="634.0" y="225.8" width="32" height="14.2" rx="5" fill="#ffaa33" />
+          <text x="650" y="219.8" text-anchor="middle" fill="#ffffff" font-size="10" font-weight="700" class="font-mono">30</text>
+          <!-- Month label below -->
+          <text x="650" y="258" text-anchor="middle" fill="#888891" font-size="11" font-weight="500" class="font-sans">Sep</text>
+        </g>
+        
+        <!-- Month Oct: 195 commits -->
+        <g>
+          <!-- Base track -->
+          <rect x="698.0" y="145" width="32" height="95" rx="5" fill="#1b1b22" opacity="0.6" />
+          <!-- Animated Bar -->
+          <rect class="chart-bar-10" x="698.0" y="147.4" width="32" height="92.6" rx="5" fill="#e54d2e" />
+          <text x="714" y="141.4" text-anchor="middle" fill="#ffffff" font-size="10" font-weight="700" class="font-mono">195</text>
+          <!-- Month label below -->
+          <text x="714" y="258" text-anchor="middle" fill="#888891" font-size="11" font-weight="500" class="font-sans">Oct</text>
+        </g>
+        
+        <!-- Month Nov: 70 commits -->
+        <g>
+          <!-- Base track -->
+          <rect x="762.0" y="145" width="32" height="95" rx="5" fill="#1b1b22" opacity="0.6" />
+          <!-- Animated Bar -->
+          <rect class="chart-bar-11" x="762.0" y="206.8" width="32" height="33.2" rx="5" fill="#ffaa33" />
+          <text x="778" y="200.8" text-anchor="middle" fill="#ffffff" font-size="10" font-weight="700" class="font-mono">70</text>
+          <!-- Month label below -->
+          <text x="778" y="258" text-anchor="middle" fill="#888891" font-size="11" font-weight="500" class="font-sans">Nov</text>
+        </g>
+        
+  </g>
+</svg>
