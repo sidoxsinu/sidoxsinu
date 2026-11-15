@@ -196,14 +196,14 @@
       <g transform="translate(0, 0)">
         <rect width="184" height="44" rx="8" fill="#181822" stroke="#26262e" stroke-width="0.9" />
         <text x="14" y="16" fill="#888891" font-size="9" font-weight="600" class="font-mono">TOTAL CONTRIBUTIONS</text>
-        <text x="14" y="34" fill="#e54d2e" font-size="16" font-weight="700" class="font-mono">592</text>
+        <text x="14" y="34" fill="#e54d2e" font-size="16" font-weight="700" class="font-mono">578</text>
       </g>
 
       <!-- Metric 2: Active Days -->
       <g transform="translate(198, 0)">
         <rect width="184" height="44" rx="8" fill="#181822" stroke="#26262e" stroke-width="0.9" />
         <text x="14" y="16" fill="#888891" font-size="9" font-weight="600" class="font-mono">ACTIVE COMMITTING DAYS</text>
-        <text x="14" y="34" fill="#58a6ff" font-size="16" font-weight="700" class="font-mono">90 Days</text>
+        <text x="14" y="34" fill="#58a6ff" font-size="16" font-weight="700" class="font-mono">88 Days</text>
       </g>
 
       <!-- Metric 3: Longest Streak -->
