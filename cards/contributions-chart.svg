@@ -173,7 +173,7 @@
 
             @keyframes riseBar_11 {
               0% { height: 0px; y: 240px; opacity: 0; }
-              100% { height: 46.5px; y: 193.4px; opacity: 1; }
+              100% { height: 47.0px; y: 193.0px; opacity: 1; }
             }
             .chart-bar-11 {
               animation: riseBar_11 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
@@ -196,14 +196,14 @@
       <g transform="translate(0, 0)">
         <rect width="184" height="44" rx="8" fill="#181822" stroke="#26262e" stroke-width="0.9" />
         <text x="14" y="16" fill="#888891" font-size="9" font-weight="600" class="font-mono">TOTAL CONTRIBUTIONS</text>
-        <text x="14" y="34" fill="#e54d2e" font-size="16" font-weight="700" class="font-mono">600</text>
+        <text x="14" y="34" fill="#e54d2e" font-size="16" font-weight="700" class="font-mono">601</text>
       </g>
 
       <!-- Metric 2: Active Days -->
       <g transform="translate(198, 0)">
         <rect width="184" height="44" rx="8" fill="#181822" stroke="#26262e" stroke-width="0.9" />
         <text x="14" y="16" fill="#888891" font-size="9" font-weight="600" class="font-mono">ACTIVE COMMITTING DAYS</text>
-        <text x="14" y="34" fill="#58a6ff" font-size="16" font-weight="700" class="font-mono">93 Days</text>
+        <text x="14" y="34" fill="#58a6ff" font-size="16" font-weight="700" class="font-mono">94 Days</text>
       </g>
 
       <!-- Metric 3: Longest Streak -->
@@ -351,13 +351,13 @@
           <text x="714" y="258" text-anchor="middle" fill="#888891" font-size="11" font-weight="500" class="font-sans">Oct</text>
         </g>
         
-        <!-- Month Nov: 98 commits -->
+        <!-- Month Nov: 99 commits -->
         <g>
           <!-- Base track -->
           <rect x="762.0" y="145" width="32" height="95" rx="5" fill="#1b1b22" opacity="0.6" />
           <!-- Animated Bar -->
-          <rect class="chart-bar-11" x="762.0" y="193.4" width="32" height="46.5" rx="5" fill="#e54d2e" />
-          <text x="778" y="187.4" text-anchor="middle" fill="#ffffff" font-size="10" font-weight="700" class="font-mono">98</text>
+          <rect class="chart-bar-11" x="762.0" y="193.0" width="32" height="47.0" rx="5" fill="#e54d2e" />
+          <text x="778" y="187.0" text-anchor="middle" fill="#ffffff" font-size="10" font-weight="700" class="font-mono">99</text>
           <!-- Month label below -->
           <text x="778" y="258" text-anchor="middle" fill="#888891" font-size="11" font-weight="500" class="font-sans">Nov</text>
         </g>
